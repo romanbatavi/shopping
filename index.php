@@ -7,6 +7,7 @@
 <html>
     <head>
         <title>Roman Shop</title>
+        <link href="<?php echo BASE_URL."css/style.css"; ?>" type="text/css" rel="stylesheet" />
     </head>
 
     <body>
@@ -21,7 +22,7 @@
                     <a href="<?php echo BASE_URL."index.php?page=login"; ?>">Login</a>
                     <a href="<?php echo BASE_URL."index.php?page=register"; ?>">Register</a>
                 </div>
-                <a href="<?php echo BASE_URL."index.php?page=keranjang"; ?>">
+                <a href="<?php echo BASE_URL."index.php?page=keranjang"; ?>" id="button-keranjang">
                     <img src="<?php echo BASE_URL."images/cart.png"; ?>"/>
                 </a>
             </div>
