@@ -20,7 +20,7 @@
 <html>
 
 	<head>
-		<title>weshop | barang-barang elektronik</title>
+		<title>R Autoshop</title>
 		
 		<link href="<?php echo BASE_URL."css/style.css"; ?>" type="text/css" rel="stylesheet" />
 		<link href="<?php echo BASE_URL."css/banner.css"; ?>" type="text/css" rel="stylesheet" />
@@ -90,11 +90,8 @@
 			</div>
 			
 			<div id="footer">
-				<p>copyright weshop 2016</p>
+				<p>© R Autoshop : Roman Batavi 2018</p>
 			</div>
-			
 		</div>
-	
 	</body>
-	
 </html>

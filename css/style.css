@@ -1,7 +1,7 @@
 body{
 	font-family:arial;
 	font-size:12px;
-	color:#1e5474;
+	color:#df0000;
 	background:#F7F7F7;
 	margin:0px;
 }
@@ -18,7 +18,7 @@ body{
 }
 
 #container #header #menu {
-    background: #1e5474;
+    background: #df0000;
     padding: 5px 10px;
     overflow: hidden;
 }
@@ -49,7 +49,7 @@ body{
 }
 
 #container #footer {
-    background: #1e5475;
+    background:#000000;
     padding: 10px;
 }
 
@@ -95,7 +95,7 @@ body{
 }
 
 .element-form span input[type="submit"] {
-    background: #1e5474;
+    background: #df0000;
     border: none;
     color: white;
     padding: 7px 20px;
@@ -109,7 +109,7 @@ body{
 }
 
 .notif {
-    background: #1e5474;
+    background: #df0000;
     color: white;
     padding: 10px;
     margin-bottom: 10px;
@@ -123,7 +123,7 @@ body{
 #menu-profile {
     float: left;
     width: 245px;
-    background: #1e5474;
+    background: #df0000;
 }
 
 #menu-profile ul {
@@ -157,7 +157,7 @@ body{
 }
 
 .table-list tr {
-    border-bottom: 1px solid #1e5474;
+    border-bottom: 1px solid #df0000;
 }
 
 .table-list tr.baris-title {
@@ -192,7 +192,7 @@ body{
 }
 
 .tombol-action {
-    background: #1e5474;
+    background: #df0000;
     color: white;
     padding: 7px 15px;
     border-radius: 3px;
@@ -226,7 +226,7 @@ body{
     display: block;
     padding: 10px;
     background: white;
-    color: #1e5474;
+    color: #df0000;
     text-decoration: none;
 }
 
@@ -297,7 +297,7 @@ body{
 }
 
 #kanan #frame-barang ul li .button-add-cart a {
-    background: #1e5474;
+    background: #df0000;
     color: white;
     text-decoration: none;
     padding: 5px 10px;
@@ -340,7 +340,7 @@ body{
 }
 
 #detail-barang #frame-harga a {
-    background: #1e5474;
+    background: #df0000;
     color: white;
     text-decoration: none;
     padding: 5px 10px;
@@ -379,7 +379,7 @@ body{
     top: 0px;
     right: 0px;
     text-decoration: none;
-    color: #1e5474;
+    color: #df0000;
 }
 
 .kanan.hapus_item a:hover {
@@ -387,7 +387,7 @@ body{
 }
 
 #frame-button-keranjang a {
-    background: #1e5474;
+    background: #df0000;
     color: white;
     text-decoration: none;
     padding: 7px 20px;
